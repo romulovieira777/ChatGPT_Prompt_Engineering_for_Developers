@@ -7,7 +7,7 @@
 - [Iterative](https://github.com/romulovieira777/ChatGPT_Prompt_Engineering_for_Developers/tree/main/03_Iterative)
 - [Summarizing](https://github.com/romulovieira777/ChatGPT_Prompt_Engineering_for_Developers/tree/main/04_Summarizing)
 - [Inferring](https://github.com/romulovieira777/ChatGPT_Prompt_Engineering_for_Developers/tree/main/05_Inferring)
-- [Transforming]()
+- [Transforming](https://github.com/romulovieira777/ChatGPT_Prompt_Engineering_for_Developers/tree/main/06_Transforming)
 - [Expanding]()
 - [Chatbot]()
 - Conclusion

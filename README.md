@@ -3,7 +3,7 @@
 ### #### 💻 Topics covered during the course were: 🚀
 
 - [Introduction](https://github.com/romulovieira777/ChatGPT_Prompt_Engineering_for_Developers/tree/main/01_Introduction)
-- [Guidelines]()
+- [Guidelines](https://github.com/romulovieira777/ChatGPT_Prompt_Engineering_for_Developers/tree/main/02_Guidelines)
 - [Iterative]()
 - [Summarizing]()
 - [Inferring]()

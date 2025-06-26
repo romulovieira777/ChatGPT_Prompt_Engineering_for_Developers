@@ -2,7 +2,7 @@
 ## Course ChatGPT Prompt Engineering for Developers
 ### #### 💻 Topics covered during the course were: 🚀
 
-- [Introduction]()
+- [Introduction](https://github.com/romulovieira777/ChatGPT_Prompt_Engineering_for_Developers/tree/main/01_Introduction)
 - [Guidelines]()
 - [Iterative]()
 - [Summarizing]()

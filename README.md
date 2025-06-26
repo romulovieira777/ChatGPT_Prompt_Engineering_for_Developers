@@ -9,7 +9,7 @@
 - [Inferring](https://github.com/romulovieira777/ChatGPT_Prompt_Engineering_for_Developers/tree/main/05_Inferring)
 - [Transforming](https://github.com/romulovieira777/ChatGPT_Prompt_Engineering_for_Developers/tree/main/06_Transforming)
 - [Expanding](https://github.com/romulovieira777/ChatGPT_Prompt_Engineering_for_Developers/tree/main/07_Expanding)
-- [Chatbot]()
+- [Chatbot](https://github.com/romulovieira777/ChatGPT_Prompt_Engineering_for_Developers/tree/main/08_Chatbot)
 - Conclusion
 
 Link to course: [DeepLearning](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/dfbds/introduction)

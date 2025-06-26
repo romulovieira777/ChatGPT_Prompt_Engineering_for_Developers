@@ -2,7 +2,7 @@
 ## Course ChatGPT Prompt Engineering for Developers
 ### #### 💻 Topics covered during the course were: 🚀
 
-- Introduction
+- [Introduction]()
 - [Guidelines]()
 - [Iterative]()
 - [Summarizing]()
